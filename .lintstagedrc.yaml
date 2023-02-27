@@ -1,0 +1,4 @@
+{
+  "*.{js,ts,vue}": ["npm run lint:eslint", "npm run prettier"],
+  "*.md": "npm run prettier"
+}
